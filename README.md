@@ -79,5 +79,5 @@ Os servos foram posicionados **próximos da raiz das empenagens**, com o objetiv
 
 ##  Autor
 
-Projeto por: **[Douglas Melo e Júlia Vanderlay]**  
-Instituição: [Universidade Federal de Pernambuco - Mandacaru Aerodesign-Treinee]
+Projeto por: **Douglas Melo e Júlia Vanderlay**  
+Instituição: Universidade Federal de Pernambuco - Mandacaru Aerodesign-Treinee
